@@ -1,3 +1,8 @@
 git init
 git config --global user.name "endroni"
 git config --global user.email "email"
+git status
+git add .
+git commit -m "tela de login pronta"
+git log
+git log --oneline
