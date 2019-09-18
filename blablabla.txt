@@ -6,3 +6,4 @@ git add .
 git commit -m "tela de login pronta"
 git log
 git log --oneline
+Feito outras alterações 
